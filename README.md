@@ -1,7 +1,6 @@
 # LearnOpenCV-Python
 
-### Training com opencv
-### Material didático
+#### Training com opencv. Material didático para aprendizagem de visão computacional utilizando OpenCV e lingugem de programação python
 
 <p>Learn</p>
 <ol>
